@@ -25,10 +25,10 @@ to advance the field of long video generation.
 
 ---
 
-![image.](asset/images/structure.png)
+![image.](asset/structure.png)
 
 ---
-![image.](asset/images/keyframeGen.png)
+![image.](asset/keyframeGen.png)
 
 
 ## ⏬ Download Data
