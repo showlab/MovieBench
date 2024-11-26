@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://weijiawu.github.io/MovieBench/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
-  <a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
+  <a href="https://arxiv.org/abs/2411.15262"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
 </div>
 
 ## :notes: **Updates**
@@ -36,13 +36,15 @@ to advance the field of long video generation.
 
 
 ## 📖BibTeX
-    @misc{wu2025moviebench,
+    @misc{wu2024moviebenchhierarchicalmovielevel,
       title={MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation}, 
-      author={Weijia Wu and Mingyu Liu and Zeyu Zhu and Xi Xia and Haoen Feng and Wen Wang and  Kevin Qinghong Lin and Chunhua Shen, Mike Zheng Shou },
+      author={Weijia Wu and Mingyu Liu and Zeyu Zhu and Xi Xia and Haoen Feng and Wen Wang and Kevin Qinghong Lin and Chunhua Shen and Mike Zheng Shou},
       year={2024},
+      eprint={2411.15262},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-    }
+      url={https://arxiv.org/abs/2411.15262}, 
+      }
     
 ## 🤗Acknowledgements
 - Thanks to [Diffusers](https://github.com/huggingface/diffusers) for the wonderful work.
