@@ -39,7 +39,7 @@ to advance the field of long video generation.
 
 We developed our Shot-Level Annotation Generation system based on [MovieSeq](https://github.com/showlab/MovieSeq), leveraging GPT-4 to enhance its functionality.
 
-![image.](asset/22.02.56.png)
+![image description](asset/22.02.56.png){width=500 height=300}
 
 Using a Visual Language Model (e.g., GPT-4), you can generate detailed annotations that include the following elements:
 ```
@@ -58,7 +58,9 @@ Using a Visual Language Model (e.g., GPT-4), you can generate detailed annotatio
     "Camera Motion":"A concise summary focusing camera motion, within 30 words."
 }
 ```
-For detailed environment setup and usage instructions, please refer to the corresponding README file.
+
+For detailed ```environment setup``` and ```usage instructions```, please refer to the corresponding [README](https://github.com/showlab/MovieBench/tree/main/MovieBench).
+
 
 ## 📖BibTeX
     @misc{wu2024moviebenchhierarchicalmovielevel,
