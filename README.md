@@ -10,7 +10,7 @@
 
 
 - [x] Nov. 22, 2024. Rep initialization.
-
+- [x] Dec. 16, 2024. Release the Scripts for Shot-Level Annotation Generation with GPT4.
 
 ---
 ## :notes: **Todo**
@@ -34,6 +34,31 @@ to advance the field of long video generation.
 ## ⏬ Download Data
 
 
+
+## ⏬ Shot-Level Annotation Generation with GPT4
+
+We developed our Shot-Level Annotation Generation system based on [MovieSeq](https://github.com/showlab/MovieSeq), leveraging GPT-4 to enhance its functionality.
+
+![image.](asset/22.02.56.png)
+
+Using a Visual Language Model (e.g., GPT-4), you can generate detailed annotations that include the following elements:
+```
+{
+    "Characters":
+    {
+        "Character Name 1": "Description for appearance and behavior of Character 1, within 30 words",
+        "Character Name 2": "Description for appearance and behavior of Character 2, within 30 words", 
+    },
+    "Style Elements":
+    [
+        "Element 1", "Element 2", "Element 3"
+    ],
+    "Plot":"A concise summary focusing on the main event or emotion, within 80 words",
+    "Background Description":"A concise summary focusing on the main event or emotion, within 40 words",
+    "Camera Motion":"A concise summary focusing camera motion, within 30 words."
+}
+```
+For detailed environment setup and usage instructions, please refer to the corresponding README file.
 
 ## 📖BibTeX
     @misc{wu2024moviebenchhierarchicalmovielevel,
