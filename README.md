@@ -39,7 +39,8 @@ to advance the field of long video generation.
 
 We developed our Shot-Level Annotation Generation system based on [MovieSeq](https://github.com/showlab/MovieSeq), leveraging GPT-4 to enhance its functionality.
 
-![image description](asset/22.02.56.png){width=500 height=300}
+
+<img src="asset/22.02.56.png" alt="image description" width="500" height="300">
 
 Using a Visual Language Model (e.g., GPT-4), you can generate detailed annotations that include the following elements:
 ```
