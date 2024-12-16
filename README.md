@@ -8,9 +8,10 @@
 
 ## :notes: **Updates**
 
-
-- [x] Nov. 22, 2024. Rep initialization.
+- [x] Dec. 16, 2024. Release [DataSplit](https://github.com/showlab/MovieBench/blob/main/data/data_split.json), [Scene Split](https://github.com/showlab/MovieBench/blob/main/data/movies_scenes.json).
 - [x] Dec. 16, 2024. Release the Scripts for Shot-Level Annotation Generation with GPT4.
+- [x] Nov. 22, 2024. Rep initialization.
+
 
 ---
 ## :notes: **Todo**
