@@ -116,7 +116,7 @@ For detailed ```environment setup``` and ```usage instructions```, please refer 
 
 ## ⏬ Metric
 
-The corresponding metric release is available [here]().
+The corresponding metric release is available [here](https://github.com/showlab/MovieBench/tree/main/metrics).
 
 
 
