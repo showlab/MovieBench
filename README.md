@@ -8,6 +8,7 @@
 
 ## :notes: **Updates**
 
+- [x] Mar. 16, 2025. Release Metric Scripts.
 - [x] Release Dataset with Character Bank and Shot-level Description.
 - [x] Dec. 16, 2024. Release [DataSplit](https://github.com/showlab/MovieBench/blob/main/data/data_split.json), [Scene Split](https://github.com/showlab/MovieBench/blob/main/data/movies_scenes.json).
 - [x] Dec. 16, 2024. Release the Scripts for Shot-Level Annotation Generation with GPT4.
@@ -17,7 +18,7 @@
 ---
 ## :notes: **Todo**
 - [ ] Building Leaderboard.
-- [ ] Release Metric Scripts.
+
 
 ## 🐱 Abstract
 
@@ -111,6 +112,17 @@ Using a Visual Language Model (e.g., GPT-4), you can generate detailed annotatio
 ```
 
 For detailed ```environment setup``` and ```usage instructions```, please refer to the corresponding [README](https://github.com/showlab/MovieBench/tree/main/MovieBench).
+
+
+## ⏬ Metric
+
+The corresponding metric release is available [here]().
+
+
+
+
+
+
 
 
 ## 📖BibTeX
